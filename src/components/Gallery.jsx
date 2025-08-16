@@ -89,7 +89,7 @@ const Gallery = () => {
       title: "NEJAN at Subway",
       description: "A confident man in a green GAP hoodie stands in a subway station.",
       image: "https://raw.githubusercontent.com/NEJANX/Gallery/refs/heads/main/designs/%5BNEJAN%5D%20NEJAN%20at%20Subway.png",
-      thumbnail: "https://raw.githubusercontent.com/NEJANX/Gallery/refs/heads/main/designs/NEJAN%20at%Subway%20-%20Thumbnail.png",
+      thumbnail: "https://raw.githubusercontent.com/NEJANX/Gallery/refs/heads/main/designs/NEJAN%20at%20Subway%20-%20Thumbnail.png",
       psdFile: "/designs/NEJAN_at_Subway/NEJAN_at_Subway.psd",
       technique: "Digital Painting",
       year: "2024"
