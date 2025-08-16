@@ -50,7 +50,7 @@ const Gallery = () => {
       description: "Sleek Porsche cruises beneath starlit skies, mountains framing serene journey.",
       image: "https://raw.githubusercontent.com/NEJANX/Gallery/refs/heads/main/designs/%5BNEJAN%5D%20Dawn%20Car.png",
       thumbnail: "https://raw.githubusercontent.com/NEJANX/Gallery/refs/heads/main/designs/%5BNEJAN%5D%20Dawn%20Car.png",
-      psdFile: "/designs/Dawn_Car/Dawn_Car_NEJAN.psd",
+      psdFile: "https://mega.nz/file/WJ8iAaSD#YoXJAwHgMRsrx1sVLOnk8sTwfFPdhUqqnm7tNZoH0dw",
       technique: "Digital Compositing",
       year: "2024"
     },
@@ -60,7 +60,7 @@ const Gallery = () => {
       description: "A fearless ghost hunter battles a sinister spirit in a haunted mansion, neon energy beam cutting through the eerie darkness.",
       image: "https://raw.githubusercontent.com/NEJANX/Gallery/refs/heads/main/designs/%5BNEJAN%5D%20Ghostbusters.png",
       thumbnail: "https://raw.githubusercontent.com/NEJANX/Gallery/refs/heads/main/designs/%5BNEJAN%5D%20Ghostbusters.png",
-      psdFile: "/designs/Ghostbusters/Ghostbusters_NEJAN.psd",
+      psdFile: "https://mega.nz/file/vBkmgJiJ#uqzS_-xq8ydoLRdG5juIA5lkVHLhmZW4zwfKsbumWPo",
       technique: "Photo Manipulation",
       year: "2024"
     },
@@ -70,7 +70,7 @@ const Gallery = () => {
       description: "A man intensely focused on server data during a cyber investigation. (Adapted from Mr. Robot TV series.)",
       image: "https://raw.githubusercontent.com/NEJANX/Gallery/refs/heads/main/designs/%5BNEJAN%5D%20Mr.%20Robot%20-%20DDoS%20Investigation.png",
       thumbnail: "https://raw.githubusercontent.com/NEJANX/Gallery/refs/heads/main/designs/%5BNEJAN%5D%20Mr.%20Robot%20-%20DDoS%20Investigation.png",
-      psdFile: "/designs/Mr._Robot_-_DDoS_Investigation/Mr._Robot_-_DDoS_Investigation_NEJAN.psd",
+      psdFile: "https://mega.nz/file/2EsiBTrL#Q556LeHqaH9b9hAPa0aICNbO9JHK2FEVJJ6wwQxZgao",
       technique: "Mixed Media",
       year: "2024"
     },
@@ -80,7 +80,7 @@ const Gallery = () => {
       description: "A lone figure faces a fiery, ominous sky in 'Stranger Things.'",
       image: "https://raw.githubusercontent.com/NEJANX/Gallery/refs/heads/main/designs/%5BNEJAN%5D%20Stranger%20Things.png",
       thumbnail: "https://raw.githubusercontent.com/NEJANX/Gallery/refs/heads/main/designs/%5BNEJAN%5D%20Stranger%20Things.png",
-      psdFile: "/designs/Stranger_Things/Stranger_Things_NEJAN.psd",
+      psdFile: "https://mega.nz/file/qFsHRQhJ#FkbDWsSXbSumnbD3t99sn-qGEVz1rNN9CMt-HFN5fgQ",
       technique: "Color Grading",
       year: "2024"
     },
@@ -90,7 +90,7 @@ const Gallery = () => {
       description: "A confident man in a green GAP hoodie stands in a subway station.",
       image: "https://raw.githubusercontent.com/NEJANX/Gallery/refs/heads/main/designs/%5BNEJAN%5D%20NEJAN%20at%20Subway.png",
       thumbnail: "https://raw.githubusercontent.com/NEJANX/Gallery/refs/heads/main/designs/NEJAN%20at%20Subway%20-%20Thumbnail.png",
-      psdFile: "/designs/NEJAN_at_Subway/NEJAN_at_Subway.psd",
+      psdFile: "https://mega.nz/file/fc0lCRLK#zftNALlRiEUdT2nDUIOqM_W62NTN-WRgcVDNJBHdmuc",
       technique: "Digital Painting",
       year: "2024"
     },
@@ -100,7 +100,7 @@ const Gallery = () => {
       description: "A man in a GAP hoodie stands confidently on a street at night. The scene is enhanced with vibrant colors and a cinematic feel.",
       image: "https://raw.githubusercontent.com/NEJANX/Gallery/refs/heads/main/designs/%5BNEJAN%5D%20NEJAN%20at%20Street.png",
       thumbnail: "https://raw.githubusercontent.com/NEJANX/Gallery/refs/heads/main/designs/%5BNEJAN%5D%20NEJAN%20at%20Street.png",
-      psdFile: "/designs/NEJAN_at_Street/NEJAN_at_Street.psd",
+      psdFile: "https://mega.nz/file/ic0BlD6J#CWkrYHYtoi-SMMJtfqdlAzNy65HM37qRE9f4PYfA84k",
       technique: "HDR Processing",
       year: "2024"
     }
