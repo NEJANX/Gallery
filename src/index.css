@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
+
+:root {
+  --primary-bg: #1a1a1a;
+  --secondary-bg: #2c2c2c;
+  --accent-bg: #333;
+  --text-primary: #ffffff;
+  --text-secondary: #cccccc;
+  --text-muted: #aaaaaa;
+  --border-light: rgba(255, 255, 255, 0.1);
+  --shadow-dark: rgba(0, 0, 0, 0.5);
+  --gradient-primary: linear-gradient(145deg, #333, #111);
+}
+
+/* Remove default styling from common elements */
+button, input, textarea, select {
+  font: inherit;
+}
+
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Custom selection colors */
+::selection {
+  background: rgba(255, 255, 255, 0.2);
+  color: var(--text-primary);
+}
+
+::-moz-selection {
+  background: rgba(255, 255, 255, 0.2);
+  color: var(--text-primary);
+}

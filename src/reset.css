@@ -1,0 +1,15 @@
+/* SIMPLE CSS RESET - REMOVE ALL OVERFLOW CONFLICTS */
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+#root, .App, .gallery-container {
+  width: 100%;
+}
