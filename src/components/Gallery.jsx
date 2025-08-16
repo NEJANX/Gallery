@@ -88,8 +88,8 @@ const Gallery = () => {
       id: 5,
       title: "NEJAN at Subway",
       description: "A confident man in a green GAP hoodie stands in a subway station.",
-      image: "https://raw.githubusercontent.com/NEJANX/Gallery/refs/heads/main/designs/%5BNEJAN%5D%20NEJAN%20at%Subway.png",
-      thumbnail: "https://raw.githubusercontent.com/NEJANX/Gallery/refs/heads/main/designs/%5BNEJAN%5D%20NEJAN%20at%Subway%20-%20Thumbnail.png",
+      image: "https://raw.githubusercontent.com/NEJANX/Gallery/refs/heads/main/designs/%5BNEJAN%5D%20NEJAN%20at%20Subway.png",
+      thumbnail: "https://raw.githubusercontent.com/NEJANX/Gallery/refs/heads/main/designs/NEJAN%20at%Subway%20-%20Thumbnail.png",
       psdFile: "/designs/NEJAN_at_Subway/NEJAN_at_Subway.psd",
       technique: "Digital Painting",
       year: "2024"
@@ -98,8 +98,8 @@ const Gallery = () => {
       id: 6,
       title: "NEJAN at Street",
       description: "A man in a GAP hoodie stands confidently on a street at night. The scene is enhanced with vibrant colors and a cinematic feel.",
-      image: "https://raw.githubusercontent.com/NEJANX/Gallery/refs/heads/main/designs/%5BNEJAN%5D%20NEJAN%20at%Street.png",
-      thumbnail: "https://raw.githubusercontent.com/NEJANX/Gallery/refs/heads/main/designs/%5BNEJAN%5D%20NEJAN%20at%Street.png",
+      image: "https://raw.githubusercontent.com/NEJANX/Gallery/refs/heads/main/designs/%5BNEJAN%5D%20NEJAN%20at%20Street.png",
+      thumbnail: "https://raw.githubusercontent.com/NEJANX/Gallery/refs/heads/main/designs/%5BNEJAN%5D%20NEJAN%20at%20Street.png",
       psdFile: "/designs/NEJAN_at_Street/NEJAN_at_Street.psd",
       technique: "HDR Processing",
       year: "2024"
